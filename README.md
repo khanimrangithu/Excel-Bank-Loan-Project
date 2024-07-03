@@ -54,14 +54,14 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 
 **Objective:** This line chart will showcase how 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' vary over time, allowing us to identify seasonality and long-term trends in lending activities.
 
-### 2. Regional Analysis by State (Filled Map):
-**Chart Type:** Filled Map
+### 2. Total Loan Applications: Top 10 States (Column Chart):
+**Chart Type:** Column Chart
 
 **Metrics:** 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'
 
 **Geographic Regions:** States
 
-**Objective:** This filled map will visually represent lending metrics categorized by state, enabling us to identify regions with significant lending activity and assess regional disparities.
+**Objective:** This column chart will display represent lending metrics categorized by state, enabling us to identify regions with significant lending activity and assess regional disparities.
 
 ### 3. Loan Term Analysis (Donut Chart):
 **Chart Type:** Donut Chart
