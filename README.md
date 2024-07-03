@@ -61,7 +61,7 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 
 **Geographic Regions:** States
 
-**Objective:** This column chart will display represent lending metrics categorized by state, enabling us to identify regions with significant lending activity and assess regional disparities.
+**Objective:** This column chart will display represent lending metrics categorized by state, enabling us to find most applications for loans by states.
 
 ### 3. Loan Term Analysis (Donut Chart):
 **Chart Type:** Donut Chart
